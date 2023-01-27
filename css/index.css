@@ -45,3 +45,17 @@ footer {
     margin-top: 50px;
     color: #333;
 }
+
+footer > span{
+    font-size: 1rem;
+}
+
+footer >.down{
+    margin: 10%;
+}
+
+footer > .down > a {
+    display: block;
+    font-size: 3rem;
+    margin: 3%;
+}
